@@ -1,4 +1,4 @@
-# starting
+# starting-demo
 This is my first Repository.
 <br>
-Author = Ovaish Ansari
+Author = Ovaish Ansari(07)
